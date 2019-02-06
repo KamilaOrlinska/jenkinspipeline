@@ -1,0 +1,9 @@
+http://arduino.cc/en/Main/Products
+
+http://sklep.avt.pl/avtduino-pomysl-na-avr-zestaw-do-samodzielnego-montazu.html
+
+http://www.freeduino.org/about.html
+
+https://www.adafruit.com/products/336
+
+https://metalab.at/wiki/Metaboard
